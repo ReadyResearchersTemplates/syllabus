@@ -97,7 +97,7 @@ This course uses several methods for evaluation which appraise:
 
 - the product of your work
 - the process used to arrive that that product
-- the way that you present your product and process
+- the narrative/story you tell about your product and process
 
 The evaluative criteria in this course do not weight these equally, and place emphasis on process and presentation; however,
 this does not make the product(s) of your work inconsequential. By nature, a good process necessitates a good product. There
