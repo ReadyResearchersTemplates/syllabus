@@ -32,6 +32,19 @@
 
 ### Course descriptions and outcomes
 
+#### Course units
+
+The CIS department's `600` courses follow three major "units" common to all students, regardless of major. These are:
+
+* Demo day preparation (project narrative)
+* Advising (advanced project research)
+* Reporting (thesis document writing)
+
+These units guide the tasks (activies and prompts) that we will complete through the semester. Work completed during
+each unit will further your progress toward the global assignment due at the end of each unit.
+
+#### Major-specific outcomes
+
 This syllabus governs the following `600`-level courses in the Allegheny College Department of Computer and Information Science. While we meet weekly as one large group, each of us will pursue different course outcomes from our work. See the appropriate course below to review the learning outcomes that this course provides.
 
 - [`CMPSC 600`](#cmpsc-600)
@@ -39,11 +52,11 @@ This syllabus governs the following `600`-level courses in the Allegheny College
 - [`INFM 600`](#infm-600)
 - [`SE 600`](#se-600)
 
-#### `CMPSC 600`
+##### `CMPSC 600`
 
 Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
-##### Learning Outcomes
+###### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source research project.
 - Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
@@ -52,11 +65,11 @@ Independent research in computer science culminating in the development of proto
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that includes integration of theory and practice or software and hardware.
 
-#### `DS 600`
+##### `DS 600`
 
 Independent research in data science culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
-##### Learning Outcomes
+###### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source research project.
 - Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
@@ -65,11 +78,11 @@ Independent research in data science culminating in the development of a prototy
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that uses a large, complex data set to create a web dashboard or extend an existing data science framework via analysis.
 
-#### `INFM 600`
+##### `INFM 600`
 
 Independent research in informatics culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
-##### Learning Outcomes
+###### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source research project.
 - Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
@@ -78,11 +91,11 @@ Independent research in informatics culminating in the development of a prototyp
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that integrates multiple disciplines and provides critical engagement of impact of technology on various communities.
 
-#### `SE 600`
+##### `SE 600`
 
 Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
-##### Learning Outcomes
+###### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source research project.
 - Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
@@ -114,4 +127,25 @@ This course features two categories of evaluative criteria: `Process` and `Produ
 |Class activities | `Process`   | 30%       |
 |Demo day presentation | `Product` | 20%    |
 |Thesis writing   | `Product` | 20%         |
+
+##### Criteria detail
+
+###### Research Journal
+
+Your research journal is a public account of your research process. Each week, you will be given a prompt and a related activity
+(see [below](#class-activities) for details on activities). For each week of the semester, you must write a post of at least
+`250` words which responds to the prompt and includes elements of the related activity.
+
+Students must complete these posts within `1 week`; posts are assigned on Fridays during class sessions and must be completed
+by the start of the following Friday's session. They will be used as part of a class check-in activity at the beginning of each
+Friday session.
+
+###### Class Activities
+
+The Faculty organize course sessions to achieve `3` main goals:
+
+* check-in on project progress
+* further development of `1` specific aspect of the project
+* broader weekly goal-setting for individual [course units](#course-units)
+
 
