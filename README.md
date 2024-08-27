@@ -6,7 +6,7 @@
 
 |Day(s) of Week            |Time          |Purpose     |Location                        |
 |--------------------------|--------------|------------|--------------------------------|
-|Friday                    |🕐 13:30 - 14:20 |Activities   |Alden 101                   |
+|📆 Friday                    |🕐 13:30 - 14:20 |Activities   |🏛️Alden 101                   |
 
 ### Your advisors
 
