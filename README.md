@@ -106,6 +106,12 @@ spend time and care on each part of the process.
 
 #### Criteria
 
-This course features two categories of evaluative criteria: `Direct` and `Indirect`.
+This course features two categories of evaluative criteria: `Process` and `Product`.
 
+|Deliverable | Category | Evaluative weight |
+|:-----------|:---------|:------------------|
+|Research Journal | `Process` | 30%         |
+|Class activities | `Process`   | 30%       |
+|Demo day presentation | `Product` | 20%    |
+|Thesis writing   | `Product` | 20%         |
 
