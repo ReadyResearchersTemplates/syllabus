@@ -32,7 +32,7 @@
 
 ### Course descriptions and outcomes
 
-This syllabus governs the following `600`-level courses in the Allegheny College Department of Computer and Information Science. While we meet weekly as one large group, each of us pursue different course outcomes from our work. See the appropriate course below to review the learning outcomes that this course provides.
+This syllabus governs the following `600`-level courses in the Allegheny College Department of Computer and Information Science. While we meet weekly as one large group, each of us will pursue different course outcomes from our work. See the appropriate course below to review the learning outcomes that this course provides.
 
 - [`CMPSC 600`](#cmpsc-600)
 - [`DS 600`](#ds-600)
