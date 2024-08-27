@@ -90,3 +90,22 @@ Independent research in software engineering culminating in the development of a
 - Produce and document a working prototype of an engineered software artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical, and social impact of the produced artifact.
 - Produce an original software project that is working, well-tested, and deployed into production use.
+
+### Evaluation
+
+This course uses several methods for evaluation which appraise:
+
+- the product of your work
+- the process used to arrive that that product
+- the way that you present your product and process
+
+The evaluative criteria in this course do not weight these equally, and place emphasis on process and presentation; however,
+this does not make the product(s) of your work inconsequential. By nature, a good process necessitates a good product. There
+is no substitute for high-quality, iterative effort. In short, the only way to guarantee good outcomes in this course is to
+spend time and care on each part of the process.
+
+#### Criteria
+
+This course features two categories of evaluative criteria: `Direct` and `Indirect`.
+
+
