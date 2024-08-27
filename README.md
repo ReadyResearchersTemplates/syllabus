@@ -57,3 +57,29 @@ Independent research in data science culminating in the development of a prototy
 - Produce and document a working prototype of a data-oriented artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that uses a large, complex data set to create a web dashboard or extend an existing data science framework via analysis.
+
+#### `INFM 600`
+
+Independent research in informatics culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+
+##### Learning Outcomes
+
+- Develop a viable and appropriate proposal for an independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews and formal presentations.
+- Produce and document a working prototype of an information-informed artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
+- Produce an original project that integrates multiple disciplines and provides critical engagement of impact of technology on various communities.
+
+#### `SE 600`
+
+Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+
+##### Learning Outcomes
+
+- Develop a viable and appropriate proposal for an independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
+- Produce and document a working prototype of an engineered software artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical, and social impact of the produced artifact.
+- Produce an original software project that is working, well-tested, and deployed into production use.
