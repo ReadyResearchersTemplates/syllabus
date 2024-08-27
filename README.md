@@ -1,4 +1,4 @@
-![CMPSC 600 - GH Banner](https://github.com/user-attachments/assets/ccdf7c18-e758-4d23-a7fe-e6413f513cb4)
+![CMPSC 600 - GH Banner](https://github.com/user-attachments/assets/0807c6ea-3fa1-4242-8933-bca919804d1f)
 
 ## Course information
 
