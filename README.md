@@ -13,7 +13,7 @@
 <table>
 <tbody>
   <tr>
-    <td></td>
+    <td><img src="https://avatars.githubusercontent.com/u/31265642?v=4?s=100"></td>
     <td></td>
     <td></td>
   </tr>
