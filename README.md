@@ -18,14 +18,19 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Oliver Bonham-Carter</td>
+    <td>Emily Graeber</td>
+    <td>Morgran Green</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Gregory Kapfhammer</td>
+    <td>Janyl Jumadinova</td>
+    <td>Douglas Luman</td>
   </tr>
 </tbody>
 </table>
