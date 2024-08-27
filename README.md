@@ -36,7 +36,7 @@
 
 Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
-Learning Outcomes:
+##### Learning Outcomes
 
 - Develop a viable and appropriate proposal for an independent and open-source research project.
 - Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
@@ -44,3 +44,16 @@ Learning Outcomes:
 - Produce and document a working prototype of computational artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that includes integration of theory and practice or software and hardware.
+
+#### `DS 600`
+
+Independent research in data science culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+
+##### Learning Outcomes
+
+- Develop a viable and appropriate proposal for an independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews and formal presentations.
+- Produce and document a working prototype of a data-oriented artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
+- Produce an original project that uses a large, complex data set to create a web dashboard or extend an existing data science framework via analysis.
