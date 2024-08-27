@@ -32,6 +32,13 @@
 
 ### Course descriptions and outcomes
 
+This syllabus governs the following `600`-level courses in the Allegheny College Department of Computer and Information Science. While we meet weekly as one large group, each of us pursue different course outcomes from our work. See the appropriate course below to review the learning outcomes that this course provides.
+
+- [`CMPSC 600`](#cmpsc-600)
+- [`DS 600`](#ds-600)
+- [`INFM 600`](#infm-600)
+- [`SE 600`](#se-600)
+
 #### `CMPSC 600`
 
 Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
