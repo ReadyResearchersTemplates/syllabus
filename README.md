@@ -13,11 +13,10 @@
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<style>#contributors tr { border: none }</style>
 <table id = "contributors">
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.douglasjluman.com"><img src="https://avatars.githubusercontent.com/u/1552764?v=4?s=100" width="100px;" alt="Douglas Luman"/><br /><sub><b>Douglas Luman</b></sub></a><br /><a href="#ideas-dluman" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td border = 0 align="center" valign="top" width="14.28%"><a href="http://www.douglasjluman.com"><img src="https://avatars.githubusercontent.com/u/1552764?v=4?s=100" width="100px;" alt="Douglas Luman"/><br /><sub><b>Douglas Luman</b></sub></a><br /><a href="#ideas-dluman" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://janyljumadinova.com"><img src="https://avatars.githubusercontent.com/u/9140572?v=4?s=100" width="100px;" alt="Janyl Jumadinova"/><br /><sub><b>Janyl Jumadinova</b></sub></a><br /><a href="#ideas-jjumadinova" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.gregorykapfhammer.com"><img src="https://avatars.githubusercontent.com/u/926029?v=4?s=100" width="100px;" alt="Gregory M. Kapfhammer"/><br /><sub><b>Gregory M. Kapfhammer</b></sub></a><br /><a href="#ideas-gkapfham" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://howshekilledit.com"><img src="https://avatars.githubusercontent.com/u/8368413?v=4?s=100" width="100px;" alt="Morgan Green"/><br /><sub><b>Morgan Green</b></sub></a><br /><a href="#ideas-howshekilledit" title="Ideas, Planning, & Feedback">🤔</a></td>
