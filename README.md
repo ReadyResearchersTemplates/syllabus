@@ -37,7 +37,7 @@
 The CIS department's `600` courses follow three major "units" common to all students, regardless of major. These are:
 
 * Demo day preparation (project narrative)
-* Advising (advanced project research)
+* Advising (advanced project research, artifact development)
 * Reporting (thesis document writing)
 
 These units guide the tasks (activies and prompts) that we will complete through the semester. Work completed during
@@ -121,12 +121,13 @@ spend time and care on each part of the process.
 
 This course features two categories of evaluative criteria: `Process` and `Product`.
 
-|Deliverable | Category | Evaluative weight |
+| Mechanic   | Category | Evaluative weight |
 |:-----------|:---------|:------------------|
 |Research Journal | `Process` | 30%         |
-|Class activities | `Process`   | 30%       |
-|Demo day presentation | `Product` | 20%    |
-|Thesis writing   | `Product` | 20%         |
+|Class activities | `Process`   | 25%       |
+|Computational artifact |`Product`| 15%     |
+|Demo day presentation | `Product` | 15%    |
+|Thesis writing   | `Product` | 15%         |
 
 ##### Criteria detail
 
@@ -142,10 +143,60 @@ Friday session.
 
 ###### Class Activities
 
+These activities will produce deliverables with corresponding [`Research Journal`](#research-jounal) entries. Activities range
+in scope depending on the current course unit and may involve writing, visualizations, or other work product. These activities
+are meant to contribute content to on-going global tasks.
+
+###### Computational artifact
+
+All students completing projects under a CIS major are expected to produce a computational artifact. This artifact may include (but
+is not limited to):
+
+* source code in a Github version-controlled repository
+* documentation of source code, its use, and relevant executable binaries
+* theory- or evidence-based writing on a computational subject
+* extensive use of collected or extant data sources
+
+The ultimate expression and form of a project constitues a primary concern of conversations with project advisor(s).
+In close consultation with your reader(s), researchers arrive at the most suitable product for their intended outcome(s).
+
+###### Demo day presentation
+
+At roughly the one-quarter mark in the semester, students will give a "Demo Day" presentation. These presentations are
+focused on the _narrative_ of your project: its origin, uses, and overall impact. The purpose of this presentation is 
+to convey a project's:
+
+* overview
+* value
+* efficacy
+* future direction
+
+The underlying motivation for requiring student presentations is to both provide practice for clearly and concisely describing
+a project and for allowing others in department's research community to evalute the overall soundness of a project's plan and
+purpose. Often, if a researcher can't clearly articulate what their project _is_ and _does_, it suggests that there's still work
+to do in project planning before moving to any building-out phase.
+
+These presentations are limited to `5` minutes and _no_ time for Q & A. Instead, presenters will receive the results of a feedback
+survey that audiences will fill out during the presentation.
+
+###### Thesis writing
+
+All researchers must also document their work in the form of a written thesis. While variations on the typical structure and
+contents of a thesis can be specific to a certain project, a typical CIS department thesis contains `5` sections:
+
+1. Introduction
+2. Related Work
+3. Methods
+4. Experiments
+5. Conclusions
+
+During the `600` semester course, students will complete sections `1` and `2` for review by their reader(s). Thesis writing
+templates and materials will be distributed later in the semester after Demo Day.
+
+### Class sessions
+
 The Faculty organize course sessions to achieve `3` main goals:
 
-* check-in on project progress
-* further development of `1` specific aspect of the project
+* check-in on project stage progress
+* further development of `1` specific aspect of the current project stage
 * broader weekly goal-setting for individual [course units](#course-units)
-
-
