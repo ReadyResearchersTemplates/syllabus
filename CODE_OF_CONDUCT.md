@@ -157,4 +157,12 @@ remove this subsection.
 
 > `TODO`: Outline additional expectations.
 
-#### 
+#### Contract approval
+
+| Name           | Approval  | Date              |
+|:---------------|:----------|:------------------|
+|`TODO: Student` |`TODO: Print name` |`TODO: Date` |
+|`TODO: Reader 1`|`TODO: Print name` |`TODO: Date` |
+|`TODO: Reader 2`|`TODO: Print name` |`TODO: Date` |
+
+(Add additional rows for other students or readers as needed.) 
