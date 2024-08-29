@@ -149,8 +149,9 @@ Friday session.
 ###### Research meeting posts
 
 Students must also add posts to their research journal after all meetings with _any_ readers. These posts should contain a `100`-word
-reflection and a Markdown list of tasks discussed using Markdown checkboxes to indicate tasks completed. These posts may feature
-tasks that recur from week to week until finished or short-duration tasks assigned by readers that can be completed in a matter of days.
+reflection on/summary of research progress and a Markdown list of tasks discussed using Markdown checkboxes to indicate tasks completed. 
+These posts may feature tasks that recur from week to week until finished or short-duration tasks assigned by readers that can be completed 
+in a matter of days.
 
 Given that these meetings should occur weekly, readers should expect at least `14` posts for a student's `600` semester and `14` posts
 for a `610` work.
