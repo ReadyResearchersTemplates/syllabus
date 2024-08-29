@@ -28,10 +28,14 @@ of what constitutes an "extenuating circumstance" is left to the project reader(
 #### Meetings
 
 Students and readers agree to meet on a weekly basis for a minumum of thirty (30) minutes outside of any
-dedicated Comp coursework (i.e. `600`-level classes). These meetings are a necessary part of completing
-project process tasks. Students are expected to bring work which indicates acceptable progress on tasks
-assigned as either part of `600`-level coursework or independently assigned by project reader(s). This
-may include (but are not limited to):
+dedicated Comp coursework (i.e. `600`-level classes). At least as concerns project first readers, these meetings
+must be _regular_ and _scheduled_.
+
+These meetings are a necessary part of completing project process tasks. Students are expected to bring work 
+which indicates acceptable progress on tasks assigned as either part of `600`-level coursework or independently 
+assigned by project reader(s).
+
+Expected tasks may include (but are not limited to):
 
 * drafts of thesis document writing
 * writing outlines or project diagrams (e.g. flowcharts, et al.)
@@ -165,4 +169,4 @@ remove this subsection.
 |`TODO: Reader 1`|`TODO: Print name` |`TODO: Date` |
 |`TODO: Reader 2`|`TODO: Print name` |`TODO: Date` |
 
-(Add additional rows for other students or readers as needed.) 
+(Add additional rows for other students or readers as needed.)

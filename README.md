@@ -205,3 +205,8 @@ The Faculty organize course sessions to achieve `3` main goals:
 * check-in on project stage progress
 * further development of `1` specific aspect of the current project stage
 * broader weekly goal-setting for individual [course units](#course-units)
+
+Course time will be divided between activities intended to cover these three areas. While activities may be started during
+class time, be aware that students will likely need to finish them outside of class. In addition, project reader(s) may 
+discuss and develop these activities with you during weekly meetings (as outlined in the [project contract](CODE_OF_CONDUCT.md).
+As such, readers may expect this work to have achieved at least a rough draft stage by scheduled meeting times.
