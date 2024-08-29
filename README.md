@@ -129,6 +129,11 @@ This course features two categories of evaluative criteria: `Process` and `Produ
 |Demo day presentation | `Product` | 15%    |
 |Thesis writing   | `Product` | 15%         |
 
+While this course privileges process, failure to complete any of the items in the `Product` category will result in
+a failing grade for the course. Though these deliverables account for only `45%` of your total evaluation, they are
+the inevitable outcomes of a high-quality process. Completing `Process` work in this course will all but guarantee
+that `Product` work is completed.
+
 ##### Criteria detail
 
 ###### Research Journal
