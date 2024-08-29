@@ -1,5 +1,7 @@
 ![CMPSC 600 - GH Banner](https://github.com/user-attachments/assets/0807c6ea-3fa1-4242-8933-bca919804d1f)
 
+[![Course Contract status](../../actions/workflows/main.yml/badge.svg?branch=main)](../../actions/workflows/main.yml)
+
 ## Course information
 
 ### Meeting times
