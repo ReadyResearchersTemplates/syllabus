@@ -134,9 +134,9 @@ a failing grade for the course. Though these deliverables account for only `45%`
 the inevitable outcomes of a high-quality process. Completing `Process` work in this course will all but guarantee
 that `Product` work is completed.
 
-##### Criteria detail
+##### Research Journal
 
-###### Research Journal
+###### Class activities posts
 
 Your research journal is a public account of your research process. Each week, you will be given a prompt and a related activity
 (see [below](#class-activities) for details on activities). For each week of the semester, you must write a post of at least
@@ -146,13 +146,22 @@ Students must complete these posts within `1 week`; posts are assigned on Friday
 by the start of the following Friday's session. They will be used as part of a class check-in activity at the beginning of each
 Friday session.
 
-###### Class Activities
+###### Research meeting posts
+
+Students must also add posts to their research journal after all meetings with _any_ readers. These posts should contain a `100`-word
+reflection and a Markdown list of tasks discussed using Markdown checkboxes to indicate tasks completed. These posts may feature
+tasks that recur from week to week until finished or short-duration tasks assigned by readers that can be completed in a matter of days.
+
+Given that these meetings should occur weekly, readers should expect at least `14` posts for a student's `600` semester and `14` posts
+for a `610` work.
+
+##### Class Activities
 
 These activities will produce deliverables with corresponding [`Research Journal`](#research-jounal) entries. Activities range
 in scope depending on the current course unit and may involve writing, visualizations, or other work product. These activities
 are meant to contribute content to on-going global tasks.
 
-###### Computational artifact
+##### Computational artifact
 
 All students completing projects under a CIS major are expected to produce a computational artifact. This artifact may include (but
 is not limited to):
@@ -165,7 +174,7 @@ is not limited to):
 The ultimate expression and form of a project constitues a primary concern of conversations with project advisor(s).
 In close consultation with your reader(s), researchers arrive at the most suitable product for their intended outcome(s).
 
-###### Demo day presentation
+##### Demo day presentation
 
 At roughly the one-quarter mark in the semester, students will give a "Demo Day" presentation. These presentations are
 focused on the _narrative_ of your project: its origin, uses, and overall impact. The purpose of this presentation is 
@@ -184,7 +193,7 @@ to do in project planning before moving to any building-out phase.
 These presentations are limited to `5` minutes and _no_ time for Q & A. Instead, presenters will receive the results of a feedback
 survey that audiences will fill out during the presentation.
 
-###### Thesis writing
+##### Thesis writing
 
 All researchers must also document their work in the form of a written thesis. While variations on the typical structure and
 contents of a thesis can be specific to a certain project, a typical CIS department thesis contains `5` sections:
