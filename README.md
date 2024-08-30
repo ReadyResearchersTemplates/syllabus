@@ -56,7 +56,7 @@ This syllabus governs the following `600`-level courses in the Allegheny College
 
 ##### `CMPSC 600`
 
-Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
@@ -69,7 +69,7 @@ Independent research in computer science culminating in the development of proto
 
 ##### `DS 600`
 
-Independent research in data science culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+Independent research in data science culminating in the development of a prototype or early draft of a computational artifact. Must be taken  on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
@@ -82,7 +82,7 @@ Independent research in data science culminating in the development of a prototy
 
 ##### `INFM 600`
 
-Independent research in informatics culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+Independent research in informatics culminating in the development of a prototype or early draft of a computational artifact. Must be taken on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
@@ -95,7 +95,7 @@ Independent research in informatics culminating in the development of a prototyp
 
 ##### `SE 600`
 
-Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
