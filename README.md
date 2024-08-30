@@ -239,17 +239,17 @@ CIS department faculty recognize that use of artificial intelligence (AI) tools 
 has emerged as a professional skill set in the knowledge and practices our coursework covers. Department faculty maintain 
 a permissive attitude toward these tools by recognizing that you can and will use them. We do so considering the following position:
 
-As a skill, using and correctly applying the results derived from AI tools is both context-based and discretion-worthy: 
-these tools do not always provide correct or workable answers. Industry veterans and expert users run into many situations 
-in which the responses these algorithms provide are plainly incorrect or unfit. In the context of department coursework, 
-accepting an AI-generated answer wholesale or as a small part of an assignment may lead to less-than-satisfactory results 
-in the context of both learning and deliverable quality.
+> As a skill, using and correctly applying the results derived from AI tools is both context-based and discretion-worthy: 
+> these tools do not always provide correct or workable answers. Industry veterans and expert users run into many situations 
+> in which the responses these algorithms provide are plainly incorrect or unfit. In the context of department coursework, 
+> accepting an AI-generated answer wholesale or as a small part of an assignment may lead to less-than-satisfactory results 
+> in the context of both learning and deliverable quality.
 
-As a learner, your time at Allegheny is meant to impart the knowledge that enables you to judge the fitness of a given approach, 
-regardless of its origin. In the same way that CIS students employ compilers, integrated development environments, and refactoring tools, 
-the use of an AI tool is not a substitute for developing the fundamental skills that develop this awareness. Importantly, research 
-demonstrates that relying on generated responses reduces a learner’s ability to durably learn these lessons and skills, suggesting 
-that you should cautiously embrace the use of AI when you complete CIS coursework<sup>†</sup>.
+> As a learner, your time at Allegheny is meant to impart the knowledge that enables you to judge the fitness of a given approach, 
+> regardless of its origin. In the same way that CIS students employ compilers, integrated development environments, and refactoring tools, 
+> the use of an AI tool is not a substitute for developing the fundamental skills that develop this awareness. Importantly, research 
+> demonstrates that relying on generated responses reduces a learner’s ability to durably learn these lessons and skills, suggesting 
+> that you should cautiously embrace the use of AI when you complete CIS coursework<sup>†</sup>.
 
 Be prepared to support their use in ways including but not limited to:
 
