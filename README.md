@@ -187,7 +187,7 @@ In close consultation with reader(s), researchers arrive at the most suitable pr
 
 ##### Demo day presentation
 
-At roughly the one-quarter mark in the semester, students will give a "Demo Day" presentation. These presentations are
+Over the course of two course periods, students will give individual "Demo Day" presentations. These presentations are
 focused on the _narrative_ of your project: its origin, uses, and overall impact. The purpose of this presentation is 
 to convey a project's:
 
