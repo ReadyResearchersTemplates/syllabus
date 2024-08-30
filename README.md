@@ -10,6 +10,12 @@
 |--------------------------|--------------|------------|--------------------------------|
 |📆 Friday                    |🕐 13:30 - 14:20 |Activities   |🏛️Alden 101                   |
 
+#### Course calendar
+
+The Faculty encourage you to adopt the following Google Calendar to keep track of major due dates in the course:
+
+* [CIS Department Senior Project calendar](https://chompe.rs/600-610-schedule)
+
 ### Your advisors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -160,7 +166,7 @@ for a `610` work.
 
 ##### Class Activities
 
-These activities will produce deliverables with corresponding [`Research Journal`](#research-jounal) entries. Activities range
+These activities will produce deliverables with corresponding [`Research Journal`](#research-journal) entries. Activities range
 in scope depending on the current course unit and may involve writing, visualizations, or other work product. These activities
 are meant to contribute content to on-going global tasks.
 
@@ -173,9 +179,11 @@ is not limited to):
 * documentation of source code, its use, and relevant executable binaries
 * theory- or evidence-based writing on a computational subject
 * extensive use of collected or extant data sources
+* a performance or other public-facing presentation of the work
+* a poster or other public display about the project or its impact
 
 The ultimate expression and form of a project constitues a primary concern of conversations with project advisor(s).
-In close consultation with your reader(s), researchers arrive at the most suitable product for their intended outcome(s).
+In close consultation with reader(s), researchers arrive at the most suitable product for their intended outcome(s).
 
 ##### Demo day presentation
 
@@ -205,7 +213,7 @@ contents of a thesis can be specific to a certain project, a typical CIS departm
 2. Related Work
 3. Methods
 4. Experiments
-5. Conclusions
+5. Future Work
 
 During the `600` semester course, students will complete sections `1` and `2` for review by their reader(s). Thesis writing
 templates and materials will be distributed later in the semester after Demo Day.
@@ -219,6 +227,77 @@ The Faculty organize course sessions to achieve `3` main goals:
 * broader weekly goal-setting for individual [course units](#course-units)
 
 Course time will be divided between activities intended to cover these three areas. While activities may be started during
-class time, be aware that students will likely need to finish them outside of class. In addition, project reader(s) may 
+class time, be aware that students will likely need to finish them outside of class. In addition, project reader(s) may
 discuss and develop these activities with you during weekly meetings (as outlined in the [project contract](CODE_OF_CONDUCT.md).
 As such, readers may expect this work to have achieved at least a rough draft stage by scheduled meeting times.
+
+## Additional policies
+
+### Use of AI
+
+CIS department faculty recognize that use of artificial intelligence (AI) tools such as Github Copilot, GPT, and Claude 
+has emerged as a professional skill set in the knowledge and practices our coursework covers. Department faculty maintain 
+a permissive attitude toward these tools by recognizing that you can and will use them. We do so considering the following position:
+
+As a skill, using and correctly applying the results derived from AI tools is both context-based and discretion-worthy: 
+these tools do not always provide correct or workable answers. Industry veterans and expert users run into many situations 
+in which the responses these algorithms provide are plainly incorrect or unfit. In the context of department coursework, 
+accepting an AI-generated answer wholesale or as a small part of an assignment may lead to less-than-satisfactory results 
+in the context of both learning and deliverable quality.
+
+As a learner, your time at Allegheny is meant to impart the knowledge that enables you to judge the fitness of a given approach, 
+regardless of its origin. In the same way that CIS students employ compilers, integrated development environments, and refactoring tools, 
+the use of an AI tool is not a substitute for developing the fundamental skills that develop this awareness. Importantly, research 
+demonstrates that relying on generated responses reduces a learner’s ability to durably learn these lessons and skills, suggesting 
+that you should cautiously embrace the use of AI when you complete CIS coursework<sup>†</sup>.
+
+In courses organized around fundamentals, instructors may prohibit students from using these tools or require students to use specific AI tools in order to teach the basic skills and concepts that students need to know to be successful in the field of CIS. Even in upper-level courses, assignments may feature requirements that decrease the applicability of a response generated with AI, thereby requiring you to thoughtfully consider the benefits, challenges, and fundamental limitations associated with the use of AI tools to generate content.
+
+If you are able to use the output of AI tools in your assignments, be prepared to support their use in ways including but not limited to:
+
+citing instances where code has been generated and clearly defining the tools that generated them
+providing descriptive commentary (including prompts) around generated code either in in-line comments or assignment documentation
+considering improvements to the generated code, documenting specifics about your modifications and reasoning behind them
+revising the generated code or documentation so as to ensure that it is more suitable for the purposes of your assignment
+
+Faculty do not intend these requirements as a “gotcha”; we assume the best of your effort. These guidelines follow industry best practices and prepare you for integrating current and future generations of these AI technologies into your computational practice.
+
+
+### Classroom ethics
+
+The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. The Faculty encourage you 
+to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
+
+### Seeking assistance
+
+#### Assistance with course concepts
+
+Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from their reader(s) or other faculty. To meet
+with us, consult the given faculty memeber's  [available office hours](https://cis.allegheny.edu) and make an appointment.
+
+Historically, students who are successful in this course hold to their weekly meeting schedules and seek out assistance from their
+second reader or other faculty member. We are here as a learning community; take advantage of the resources that this offers.
+
+#### Assistance outside of the course
+
+If you find yourself in difficult circumstances which affect your ability to participate in or complete course work, let the Faculty know immediately. Full stop.
+
+Do not wait until the end of the semester. 
+
+*It is part of our job* to make sure that students receive the assistance they need. Do not hesitate to let us know if there is anything I can do 
+with respect to your ability to handle your work. This is especially true of our current circumstances. Again, let us remind you -- __**it is part of our job**__ 
+to help you access Allegheny College resources that will enable your safety and success.
+
+In many situations, the following list of resources may help:
+
+* [The Maytum Learning Commons](https://sites.allegheny.edu/learningcommons/)
+* [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+* [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+* [Student Life](https://sites.allegheny.edu/studentlife/)
+
+### Special needs and disability
+
+Students with disabilities who need accommodations in this course are encouraged to contact Disability Services at `+1 814-334-2898`. 
+Disability Services is part of the Learning Commons, located in Pelletier Library. Should you need accommodations, contact this office as 
+soon as possible to ensure that approved accommodations are communicated and implemented as quickly as possible. This serves everyone by 
+providing the best environment for learning and support.
