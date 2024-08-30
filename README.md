@@ -251,16 +251,20 @@ the use of an AI tool is not a substitute for developing the fundamental skills 
 demonstrates that relying on generated responses reduces a learner’s ability to durably learn these lessons and skills, suggesting 
 that you should cautiously embrace the use of AI when you complete CIS coursework<sup>†</sup>.
 
-In courses organized around fundamentals, instructors may prohibit students from using these tools or require students to use specific AI tools in order to teach the basic skills and concepts that students need to know to be successful in the field of CIS. Even in upper-level courses, assignments may feature requirements that decrease the applicability of a response generated with AI, thereby requiring you to thoughtfully consider the benefits, challenges, and fundamental limitations associated with the use of AI tools to generate content.
+Be prepared to support their use in ways including but not limited to:
 
-If you are able to use the output of AI tools in your assignments, be prepared to support their use in ways including but not limited to:
+* citing instances where code has been generated and clearly defining the tools that generated them
+* providing descriptive commentary (including prompts) around generated code either in in-line comments or assignment documentation
+* considering improvements to the generated code, documenting specifics about your modifications and reasoning behind them
+* revising the generated code or documentation so as to ensure that it is more suitable for the purposes of your assignment
 
-citing instances where code has been generated and clearly defining the tools that generated them
-providing descriptive commentary (including prompts) around generated code either in in-line comments or assignment documentation
-considering improvements to the generated code, documenting specifics about your modifications and reasoning behind them
-revising the generated code or documentation so as to ensure that it is more suitable for the purposes of your assignment
+Faculty do not intend these requirements as a “gotcha”; we assume the best of your effort. These guidelines follow industry 
+best practices and prepare you for integrating current and future generations of these AI technologies into your set of computational 
+skills.
 
-Faculty do not intend these requirements as a “gotcha”; we assume the best of your effort. These guidelines follow industry best practices and prepare you for integrating current and future generations of these AI technologies into your computational practice.
+<sup>†</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles. 2024. Plagiarism in the Age of Generative AI: 
+Cheating Method Change and Learning Loss in an Intro to CS Course. In _Proceedings of the Eleventh ACM Conference on Learning @ Scale (L@S '24)_. 
+Association for Computing Machinery, New York, NY, USA, 75–85. https://doi.org/10.1145/3657604.36620
 
 
 ### Classroom ethics
