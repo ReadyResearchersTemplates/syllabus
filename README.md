@@ -16,6 +16,8 @@ The Faculty encourage you to adopt the following Google Calendar to keep track o
 
 * [CIS Department Senior Project calendar](https://chompe.rs/600-610-schedule)
 
+Add this calendar to your list of Google Calendars, as you may use it for reminders of due dates and to plan your work.
+
 ### Your advisors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
