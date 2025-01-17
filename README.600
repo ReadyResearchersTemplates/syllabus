@@ -30,6 +30,7 @@ Add this calendar to your list of Google Calendars, as you may use it for remind
       <td align="center" valign="top" width="14.28%"><a href="https://janyljumadinova.com"><img src="https://avatars.githubusercontent.com/u/9140572?v=4?s=100" width="100px;" alt="Janyl Jumadinova"/><br /><sub><b>Janyl Jumadinova</b></sub></a><br /><a href="#ideas-jjumadinova" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.gregorykapfhammer.com"><img src="https://avatars.githubusercontent.com/u/926029?v=4?s=100" width="100px;" alt="Gregory M. Kapfhammer"/><br /><sub><b>Gregory M. Kapfhammer</b></sub></a><br /><a href="#ideas-gkapfham" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://howshekilledit.com"><img src="https://avatars.githubusercontent.com/u/8368413?v=4?s=100" width="100px;" alt="Morgan Green"/><br /><sub><b>Morgan Green</b></sub></a><br /><a href="#ideas-howshekilledit" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.oliverbonhamcarter.com/"><img src="https://avatars.githubusercontent.com/u/31265642?v=4?s=100" width="100px;" alt="Oliver Bonham-Carter"/><br /><sub><b>Oliver Bonham-Carter</b></sub></a><br /><a href="#ideas-obonhamcarter" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/emgraber"><img src="https://avatars.githubusercontent.com/u/36776355?v=4?s=100" width="100px;" alt="Emily Graber"/><br /><sub><b>Emily Graber</b></sub></a><br /><a href="#ideas-emgraber" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
@@ -43,73 +44,73 @@ Add this calendar to your list of Google Calendars, as you may use it for remind
 
 #### Course units
 
-The CIS department's `610` courses follow three major "units" common to all students, regardless of major. These are:
+The CIS department's `600` courses follow three major "units" common to all students, regardless of major. These are:
 
+* Demo day preparation (project narrative)
 * Advising (advanced project research, artifact development)
 * Reporting (thesis document writing)
-* Presenting (final presnetation)
 
-These units guide the tasks that we will complete through the semester. Work completed during
+These units guide the tasks (activies and prompts) that we will complete through the semester. Work completed during
 each unit will further your progress toward the global assignment due at the end of each unit.
 
 #### Major-specific outcomes
 
-This syllabus governs the following `610`-level courses in the Allegheny College Department of Computer and Information Science. While we meet weekly as one large group, each of us will pursue different course outcomes from our work. See the appropriate course below to review the learning outcomes that this course provides.
+This syllabus governs the following `600`-level courses in the Allegheny College Department of Computer and Information Science. While we meet weekly as one large group, each of us will pursue different course outcomes from our work. See the appropriate course below to review the learning outcomes that this course provides.
 
-- [`CMPSC 610`](#cmpsc-610)
-- [`DS 610`](#ds-610)
-- [`INFM 610`](#infm-610)
-- [`SE 610`](#se-610)
+- [`CMPSC 600`](#cmpsc-600)
+- [`DS 600`](#ds-600)
+- [`INFM 600`](#infm-600)
+- [`SE 600`](#se-600)
 
-##### `CMPSC 610`
+##### `CMPSC 600`
 
-Continuation of independent research in computer science culminating in the development of and release of a computational artifact.
+Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
-- Develop a viable and appropriate independent and open-source research project.
-- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and a formal thesis document.
-- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
-- Produce and document a working and completed computational artifact.
-- Evaluate the produced artifact and reflect on theoretical, practical, ethical and social impact of the developed artifact.
+- Develop a viable and appropriate proposal for an independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews and formal presentations.
+- Produce and document a working prototype of computational artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that includes integration of theory and practice or software and hardware.
 
-##### `DS 610`
+##### `DS 600`
 
-Continuation of independent research in data science culminating in the development of and release of a computational artifact. 
+Independent research in data science culminating in the development of a prototype or early draft of a computational artifact. Must be taken  on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
-- Develop a viable and appropriate independent and open-source research project.
-- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and a formal thesis document.
+- Develop a viable and appropriate proposal for an independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
 - Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews and formal presentations.
-- Produce and document a working and completed data-oriented artifact.
-- Evaluate the produced artifact and reflect on theoretical, practical, ethical and social impact of the developed artifact.
+- Produce and document a working prototype of a data-oriented artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that uses a large, complex data set to create a web dashboard or extend an existing data science framework via analysis.
 
-##### `INFM 610`
+##### `INFM 600`
 
-Independent research in informatics culminating in the development of a prototype or early draft of a computational artifact.
+Independent research in informatics culminating in the development of a prototype or early draft of a computational artifact. Must be taken on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
-- Develop a viable and appropriate independent and open-source research project.
-- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and a formal thesis document.
+- Develop a viable and appropriate proposal for an independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
 - Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews and formal presentations.
-- Produce and document a working and completed information-informed artifact.
-- Evaluate the produced artifact and reflect on theoretical, practical, ethical and social impact of the developed artifact.
+- Produce and document a working prototype of an information-informed artifact.
+- Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
 - Produce an original project that integrates multiple disciplines and provides critical engagement of impact of technology on various communities.
 
-##### `SE 610`
+##### `SE 600`
 
-Continuation of independent research in software engineering culminating in the development of and release of a computational artifact.
+Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on a letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 ###### Learning Outcomes
 
-- Develop a viable and appropriate independent and open-source research project.
-- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and a formal thesis document.
-- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews and formal presentations.
-- Produce and document a working, completed, engineered software artifact.
+- Develop a viable and appropriate proposal for an independent and open-source research project.
+- Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook and two chapters of a formal thesis document.
+- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
+- Produce and document a working prototype of an engineered software artifact.
 - Evaluate the produced prototype and reflect on theoretical, practical, ethical, and social impact of the produced artifact.
 - Produce an original software project that is working, well-tested, and deployed into production use.
 
@@ -121,14 +122,10 @@ This course uses several methods for evaluation which appraise:
 - the process used to arrive that that product
 - the narrative/story you tell about your product and process
 
-The evaluative criteria in this course do not weight these equally, and place emphasis on product and presentation; however,
-this does not make the process behind your work inconsequential. By nature, a good process necessitates a good product. There
+The evaluative criteria in this course do not weight these equally, and place emphasis on process and presentation; however,
+this does not make the product(s) of your work inconsequential. By nature, a good process necessitates a good product. There
 is no substitute for high-quality, iterative effort. In short, the only way to guarantee good outcomes in this course is to
 spend time and care on each part of the process.
-
-Pay close attention to the above paragraph. Your `600` class is responsible for having created the foundation for the product(s)
-that you will necessarily create this semester. This semester is intended to test the soundness of the foundational skills,
-development, and research that you alredy conducted.
 
 #### Criteria
 
@@ -136,38 +133,28 @@ This course features two categories of evaluative criteria: `Process` and `Produ
 
 | Mechanic   | Category | Evaluative weight |
 |:-----------|:---------|:------------------|
-|Changelogs and meeting notes| `Process`   | 15%       |
-|Class activities | `Process`   | 10%       |
-|Computational artifact |`Product`| 25%     |
-|Final presentation | `Product` | 25%       |
-|Thesis writing     | `Product` | 25%       |
+|Research Journal | `Process` | 30%         |
+|Class activities | `Process`   | 25%       |
+|Computational artifact |`Product`| 15%     |
+|Demo day presentation | `Product` | 15%    |
+|Thesis writing   | `Product` | 15%         |
 
-Failure to complete any of the items in the `Product` category identified above will result in a failing grade for this course.
+While this course privileges process, failure to complete any of the items in the `Product` category will result in
+a failing grade for the course. Though these deliverables account for only `45%` of your total evaluation, they are
+the inevitable outcomes of a high-quality process. Completing `Process` work in this course will all but guarantee
+that `Product` work is completed.
 
-##### Changelogs and meeting notes
+##### Research Journal
 
-###### Changelogs
+###### Class activities posts
 
-For the Spring 2025 semester, `Research Journal` posts will be replaced by `Changelog`s.
+Your research journal is a public account of your research process. Each week, you will be given a prompt and a related activity
+(see [below](#class-activities) for details on activities). For each week of the semester, you must write a post of at least
+`250` words which responds to the prompt and includes elements of the related activity.
 
-The [Keep a Changelog](https://keepachangelog.com/) project provides some helpful contextualization around changelogs:
-
-> ## What is a changelog?
-A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
->
-> ##Why keep a changelog?
-To make it easier for users and contributors to see precisely what notable changes have been made between each release (or version) of the project.
->
-> ## Who needs a changelog?
-> People do. Whether consumers or developers, the end users of software are human beings who care about what's in the software. When the software changes, people want to know why and how.
-
-For the second semester of your Senior Project, you will be required to keep a changelog for _both_ your writing and computational artifact.
-Begin numbering versions from the current number released as of class on `17 January 2025`. If time allows, you can and _should_ go back and
-capture previous versions. Each post should contain the writing and software versions addressed as a title, e.g. `Thesis 0.8.1; <PROJECT TITLE> 0.9.5`.
-
-These posts should categorize changes made to `thesis writing` and your `computational artifact`. Faculty expect that there are at least `5` changes for
-each deliverable in each post, divided by headings. Each section should contain a short overview that characterizes the changes made and
-the reason(s) for making them.
+Students must complete these posts within `1 week`; posts are assigned on Fridays during class sessions and must be completed
+by the start of the following Friday's session. They will be used as part of a class check-in activity at the beginning of each
+Friday session.
 
 ###### Research meeting posts
 
@@ -177,11 +164,11 @@ These posts may feature tasks that recur from week to week until finished or sho
 in a matter of days.
 
 Given that these meetings should occur weekly, readers should expect at least `14` posts for a student's `600` semester and `14` posts
-for `610` work.
+for a `610` work.
 
 ##### Class Activities
 
-These activities will produce or revise deliverables required for the `Product` category of course assignments. Activities range
+These activities will produce deliverables with corresponding [`Research Journal`](#research-journal) entries. Activities range
 in scope depending on the current course unit and may involve writing, visualizations, or other work product. These activities
 are meant to contribute content to on-going global tasks.
 
@@ -200,6 +187,25 @@ is not limited to):
 The ultimate expression and form of a project constitues a primary concern of conversations with project advisor(s).
 In close consultation with reader(s), researchers arrive at the most suitable product for their intended outcome(s).
 
+##### Demo day presentation
+
+Over the course of two course periods, students will give individual "Demo Day" presentations. These presentations are
+focused on the _narrative_ of your project: its origin, uses, and overall impact. The purpose of this presentation is 
+to convey a project's:
+
+* overview
+* value
+* efficacy
+* future direction
+
+The underlying motivation for requiring student presentations is to both provide practice for clearly and concisely describing
+a project and for allowing others in department's research community to evalute the overall soundness of a project's plan and
+purpose. Often, if a researcher can't clearly articulate what their project _is_ and _does_, it suggests that there's still work
+to do in project planning before moving to any building-out phase.
+
+These presentations are limited to `5` minutes and _no_ time for Q & A. Instead, presenters will receive the results of a feedback
+survey that audiences will fill out during the presentation.
+
 ##### Thesis writing
 
 All researchers must also document their work in the form of a written thesis. While variations on the typical structure and
@@ -211,29 +217,8 @@ contents of a thesis can be specific to a certain project, a typical CIS departm
 4. Experiments
 5. Future Work
 
-During the `610` semester course, students will complete sections `3`, `4`, and `5` for review by their reader(s). In addition,
-students will refine and revise sections `1` and `2` in order to develop a compelling, accurate, and comprehensive thesis document.
-In addition, students are required to release new minor versions of their thesis document on all due dates requiring drafts or 
-revisions.
-
-##### Final presentation
-
-Over the course of two course periods, students will give individual "Demo Day" presentations. These presentations are
-focused on the _narrative_ of your project: its origin, uses, and overall impact. The purpose of this presentation is 
-to convey a project's:
-
-* overview
-* value
-* efficacy and effectiveness through experimental results
-* future direction
-
-The underlying motivation for requiring student presentations is to both provide practice for clearly and concisely describing
-a project and for allowing others in department's research community to evalute the overall soundness of a project's execution,
-purpose, and implications. Often, if a researcher can't clearly articulate what their project _is_ and _does_, it suggests that
-their research process lacks development and understanding of core research goals.
-
-These presentations will last `10` minutes over the course of `3` weeks on `11 April`, `18 April`, and `25 April`. Guidelines for 
-the presentations will be distributed after Spring Break.
+During the `600` semester course, students will complete sections `1` and `2` for review by their reader(s). Thesis writing
+templates and materials will be distributed later in the semester after Demo Day.
 
 ### Class sessions
 
