@@ -155,7 +155,7 @@ The [Keep a Changelog](https://keepachangelog.com/) project provides some helpfu
 > ## What is a changelog?
 > A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
 >
-> ##Why keep a changelog?
+> ## Why keep a changelog?
 > To make it easier for users and contributors to see precisely what notable changes have been made between each release (or version) of the project.
 >
 > ## Who needs a changelog?
